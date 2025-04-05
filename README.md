@@ -31,7 +31,7 @@
 |--------|-----------|
 | 🔧 [ConnectMotors_Backend](https://github.com/ConnectMotors/ConnectMotors_Backend) | Plataforma de compra e venda de veículos 🚗 |
 | ✅ [Projeto_TaskEase_Back](https://github.com/IuryAlmeidaDev/Projeto_TaskEase_Back) | Sistema de listas de tarefas pessoais |
-| 💰 [Projeto_Moneyzada_Back](https://github.com/IuryAlmeidaDev/Projeto_Moneyzada_Back) | Gerenciamento financeiro pessoal |
+| 💰 [Projeto_Moneyzada_Back](https://github.com/BugZero-Code/MoneyZada_Backend) | Gerenciamento financeiro pessoal |
 
 ---
 
