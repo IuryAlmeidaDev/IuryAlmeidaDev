@@ -65,6 +65,5 @@
 </a>
 
 ---
-
-🧩 _"Código limpo é poesia que compila."_  
+ 
 📜 _"Só sei que nada sei." – Sócrates_
