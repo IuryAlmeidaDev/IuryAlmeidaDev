@@ -1,7 +1,8 @@
 ## 👋 Fala aí, eu sou o Iury Almeida!
 
-🎓 Formando em **Engenharia da Computação**  
-🔐 Interessado em seguir carreira com **Mestrado em Cibersegurança**  
+🎓 Cursando **Engenharia da Computação - UFMT**
+🎓 Cursando MBA em **Engenharia de Software**  
+🔐 Interessado em cursar **Mestrado em Cibersegurança**  
 💻 Atuo como **Desenvolvedor Back-End**  
 👮 Estagiário na área de **Engenharia de Software da PMMT (Polícia Militar do Mato Grosso)**  
 
