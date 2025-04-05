@@ -1,10 +1,10 @@
 ## 👋 Fala aí, eu sou o Iury Almeida!
 
-🎓 Cursando **Engenharia da Computação - UFMT**
-🎓 Cursando MBA em **Engenharia de Software**  
-🔐 Interessado em cursar **Mestrado em Cibersegurança**  
+🎓 Cursando **Engenharia da Computação - UFMT**  
+🎓 Cursando **MBA em Engenharia de Software**  
+🔐 Pretendo fazer **Mestrado em Cibersegurança**  
 💻 Atuo como **Desenvolvedor Back-End**  
-👮 Estagiário na área de **Engenharia de Software da PMMT (Polícia Militar do Mato Grosso)**  
+👮 Estagiário em **Engenharia de Software na PMMT (Polícia Militar do Mato Grosso)**  
 
 ---
 
@@ -18,10 +18,10 @@
 
 ### 🧠 Atualmente aprendendo
 
-- Microsserviços com Spring Cloud
-- CI/CD com GitHub Actions
-- Testes automatizados (JUnit, Mockito)
-- Clean Architecture & Design Patterns
+- Microsserviços com Spring Cloud  
+- CI/CD com GitHub Actions  
+- Testes automatizados (JUnit, Mockito)  
+- Clean Architecture & Design Patterns  
 
 ---
 
@@ -54,10 +54,10 @@
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-almeida/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iury.colombo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-almeida/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iury.colombo@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iuryyalmeida/)
 
 ---
 
-🧩 _"Código limpo é poesia que compila."_
+📜 _"Só sei que nada sei." – Sócrates_
