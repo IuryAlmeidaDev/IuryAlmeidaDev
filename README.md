@@ -31,7 +31,7 @@
 |--------|-----------|
 | 🔧 [ConnectMotors_Backend](https://github.com/ConnectMotors/ConnectMotors_Backend) | Plataforma de compra e venda de veículos 🚗 |
 | ✅ [Projeto_TaskEase_Back](https://github.com/IuryAlmeidaDev/Projeto_TaskEase_Back) | Sistema de listas de tarefas pessoais |
-| 🧠 [Projeto_MandaBraba_Back](https://github.com/IuryAlmeidaDev/Projeto_MandaBraba_Back) | Compartilhamento livre de ideias |
+| 💰 [Projeto_Moneyzada_Back](https://github.com/IuryAlmeidaDev/Projeto_Moneyzada_Back) | Gerenciamento financeiro pessoal |
 
 ---
 
@@ -54,10 +54,17 @@
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-almeida/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iury.colombo@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iuryyalmeida/)
+<a href="https://www.linkedin.com/in/iury-almeida/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:iury.colombo@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/iuryyalmeida/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
 
 ---
 
+🧩 _"Código limpo é poesia que compila."_  
 📜 _"Só sei que nada sei." – Sócrates_
