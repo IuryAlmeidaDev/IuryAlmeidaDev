@@ -1,6 +1,6 @@
 ## 👋 Fala aí, eu sou o Iury Almeida!
 
-🎓 Cursando **Engenharia da Computação na UFMT (Universidade Federal de Mato Grosso)**
+🎓 Cursando **Engenharia da Computação na UFMT (Universidade Federal de Mato Grosso)**  
 🎓 Cursando **MBA em Engenharia de Software**  
 🔐 Pretendo fazer **Mestrado em Cibersegurança**  
 💻 Atuo como **Desenvolvedor Back-End**  
