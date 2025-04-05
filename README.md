@@ -1,55 +1,62 @@
 ## 👋 Fala aí, eu sou o Iury Almeida!
 
-🎓 Estudante de Engenharia da Computação  
-🚀 Em processo contínuo de aprendizado e evolução  
-🔧 Foco em desenvolvimento backend com **Java**, **Spring**, **PostgreSQL**, **Docker** e boas práticas  
-🐘 Banco de dados: PostgreSQL na veia  
-🐳 Contêineres com Docker pra tudo  
-🌐 APIs RESTful | Integrações | Microsserviços (em breve...)  
+🎓 Formando em **Engenharia da Computação**  
+🔐 Interessado em seguir carreira com **Mestrado em Cibersegurança**  
+💻 Atuo como **Desenvolvedor Back-End**  
+👮 Estagiário na área de **Engenharia de Software da PMMT (Polícia Militar do Mato Grosso)**  
+
+---
+
+### 🚀 Tech Stack
+
+| Linguagens & Frameworks | Banco de Dados & DevOps | Controle de Versão |
+|-------------------------|--------------------------|---------------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
 ### 🧠 Atualmente aprendendo
 
-- Arquitetura de microsserviços
+- Microsserviços com Spring Cloud
 - CI/CD com GitHub Actions
-- Testes automatizados
-- Design Patterns e boas práticas de código
+- Testes automatizados (JUnit, Mockito)
+- Clean Architecture & Design Patterns
 
 ---
 
-### 💻 Projetos em destaque
+### 📂 Projetos em Destaque
 
 | Projeto | Descrição |
 |--------|-----------|
-| 🔧 [ConnectMotors_Backend](https://github.com/ConnectMotors/ConnectMotors_Backend) | Sistema de compra e venda de veículos em desenvolvimento |
-| ✅ [Projeto_TaskEase_Back](https://github.com/IuryAlmeidaDev/Projeto_TaskEase_Back) | Lista de tarefas pessoal com organização via backend |
-| 🧠 [Projeto_MandaBraba_Back](https://github.com/IuryAlmeidaDev/Projeto_MandaBraba_Back) | Espaço livre para compartilhar pensamentos |
+| 🔧 [ConnectMotors_Backend](https://github.com/ConnectMotors/ConnectMotors_Backend) | Plataforma de compra e venda de veículos 🚗 |
+| ✅ [Projeto_TaskEase_Back](https://github.com/IuryAlmeidaDev/Projeto_TaskEase_Back) | Sistema de listas de tarefas pessoais |
+| 🧠 [Projeto_MandaBraba_Back](https://github.com/IuryAlmeidaDev/Projeto_MandaBraba_Back) | Compartilhamento livre de ideias |
 
 ---
+
+### 🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IuryAlmeidaDev/IuryAlmeidaDev/blob/output/github-contribution-grid-snake-dark.svg" />
   <img alt="snake eating contributions" src="https://github.com/IuryAlmeidaDev/IuryAlmeidaDev/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
+---
 
-### 📫 Contato
+### 🏢 Organizações que faço parte
 
-- 📧 E-mail: [iury.colombo@gmail.com](mailto:iury.colombo@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/iury-almeida/)  
-- 📸 [Instagram](https://www.instagram.com/iuryyalmeida/)  
+- 👨‍💻 [@InfoCorpUFMT](https://github.com/InfoCorpUFMT)
+- 🐞 [@BugZero-Code](https://github.com/BugZero-Code)
+- 🚗 [@ConnectMotors](https://github.com/ConnectMotors)
 
 ---
 
-### ⚙️ Tecnologias & Ferramentas
+### 📫 Onde me encontrar
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-almeida/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iury.colombo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iuryyalmeida/)
 
 ---
 
-🧩 _"Código limpo é poesia que compila."_  
+🧩 _"Código limpo é poesia que compila."_
