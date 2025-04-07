@@ -3,7 +3,7 @@
 🎓 Cursando **Engenharia da Computação na UFMT (Universidade Federal de Mato Grosso)**  
 🎓 Cursando **MBA em Engenharia de Software**  
 🔐 Pretendo fazer **Mestrado em Cibersegurança**  
-💻 Atuo como **Desenvolvedor Back-End**  
+💻 Atuo como **Desenvolvedor Back-End na Infocorp, empresa júnior da UFMT.**  
 👮 Estagiário em **Engenharia de Software na PMMT (Polícia Militar do Mato Grosso)**  
 
 ---
