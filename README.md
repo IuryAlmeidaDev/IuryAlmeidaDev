@@ -18,8 +18,8 @@
 
 ### 🧠 Atualmente aprendendo
 
-- Microsserviços com Spring Cloud  
-- CI/CD com GitHub Actions  
+- Vue.JS 
+- AdonisJS
 - Testes automatizados (JUnit, Mockito)  
 - Clean Architecture & Design Patterns  
 
