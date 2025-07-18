@@ -5,7 +5,7 @@
 🎓 Cursando **Pós-Graduação em Banco de Dados**  
 🎓 Cursando **Pós-Graduação em Fullstack Java**   
 💻 Atuo como **Desenvolvedor Back-End na Infocorp, empresa júnior da UFMT.**  
-👮 Estagiário em **Engenharia de Software na PMMT (Polícia Militar do Mato Grosso)**  
+👮 Residente técnico **MTSaúde - SEPLAG**  
 
 ---
 
