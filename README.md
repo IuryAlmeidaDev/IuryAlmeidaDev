@@ -4,7 +4,7 @@
 🎓 Cursando **MBA em Engenharia de Software**  
 🎓 Cursando **Pós-Graduação em Banco de Dados**  
 🎓 Cursando **Pós-Graduação em Fullstack Java**   
-💻 Atuo como **Desenvolvedor Back-End na Infocorp, empresa júnior da UFMT.**  
+💻 Atuo como **Desenvolvedor Back-End na Infocorp, empresa júnior da UFMT**  
 👮 Residente técnico **MTSaúde - SEPLAG**  
 
 ---
