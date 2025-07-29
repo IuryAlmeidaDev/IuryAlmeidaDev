@@ -68,6 +68,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/IuryAlmeidaDev/IuryAlmeidaDev/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVmbjNzeW5wMXdmbHpsOGR0YWdtcGh3dzJwZjFzZGh5eDBhOWQ2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif"  />
 </div>
