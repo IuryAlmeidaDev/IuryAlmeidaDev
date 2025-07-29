@@ -1,70 +1,79 @@
-## 👋 Fala aí, eu sou o Iury Almeida!
+<h1 align="center">👋 Fala aí, eu sou o Iury Almeida!</h1>
 
-🎓 Cursando **Engenharia da Computação na UFMT (Universidade Federal de Mato Grosso)**  
-🎓 Cursando **MBA em Engenharia de Software**  
-🎓 Cursando **Pós-Graduação em Banco de Dados**  
-🎓 Cursando **Pós-Graduação em Fullstack Java**   
-💻 Atuo como **Desenvolvedor Back-End na Infocorp, empresa júnior da UFMT**  
-👮 Residente técnico **MTSaúde - SEPLAG**  
+###
 
----
+<p align="left">🎓 Cursando Engenharia da Computação na UFMT (Universidade Federal de Mato Grosso)<br>🎓 Cursando Pós-Graduação em Análise de sistemas<br>🎓 Cursando Pós-Graduação em Banco de Dados<br>🎓 Cursando Pós-Graduação em Fullstack Java<br>💻 Atuo como Desenvolvedor Back-End na Infocorp, empresa júnior da UFMT<br>🧑🏻‍🎓 Atuo como Desenvolvedor Full-Stack e lider do projeto(API) na SETA, grupo de pesquisa da FAENG<br>🧑🏻‍💻 Residente técnico MTSaúde - SEPLAG</p>
 
-### 🚀 Tech Stack
+###
 
-| Linguagens & Frameworks | Banco de Dados & DevOps | Controle de Versão |
-|-------------------------|--------------------------|---------------------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="60" alt="adonisjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="60" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+</div>
 
----
+###
 
-### 🧠 Atualmente aprendendo
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
-- Vue.JS 
-- AdonisJS
-- Testes automatizados (JUnit, Mockito)  
-- Clean Architecture & Design Patterns  
+###
 
----
+<br clear="both">
 
-### 📂 Projetos em Destaque
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IuryAlmeidaDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-| Projeto | Descrição |
-|--------|-----------|
-| 🔧 [ConnectMotors_Backend](https://github.com/ConnectMotors/ConnectMotors_Backend) | Plataforma de compra e venda de veículos 🚗 |
-| ✅ [Projeto_TaskEase_Back](https://github.com/IuryAlmeidaDev/Projeto_TaskEase_Back) | Sistema de listas de tarefas pessoais |
-| 💰 [Projeto_Moneyzada_Back](https://github.com/BugZero-Code/MoneyZada_Backend) | Gerenciamento financeiro pessoal |
-
----
-
-### 🐍 Contribuições
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IuryAlmeidaDev/IuryAlmeidaDev/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake eating contributions" src="https://github.com/IuryAlmeidaDev/IuryAlmeidaDev/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IuryAlmeidaDev/IuryAlmeidaDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IuryAlmeidaDev/IuryAlmeidaDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IuryAlmeidaDev/IuryAlmeidaDev/output/pacman-contribution-graph.svg">
 </picture>
 
----
+###
 
-### 🏢 Organizações que faço parte
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVmbjNzeW5wMXdmbHpsOGR0YWdtcGh3dzJwZjFzZGh5eDBhOWQ2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif"  />
+</div>
 
-- 👨‍💻 [@InfoCorpUFMT](https://github.com/InfoCorpUFMT)
-- 🐞 [@BugZero-Code](https://github.com/BugZero-Code)
-- 🚗 [@ConnectMotors](https://github.com/ConnectMotors)
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IuryAlmeidaDev.IuryAlmeidaDev&left_color=darkred"  />
+</div>
 
-### 📫 Onde me encontrar
-
-<a href="https://www.linkedin.com/in/iury-almeida/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:iury.colombo@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/iuryyalmeida/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-</a>
-
----
- 
-📜 _"Só sei que nada sei." – Sócrates_
+###
