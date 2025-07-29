@@ -84,6 +84,10 @@
 
 ###
 
+<p align="left">“Só sei que nada sei 🤯📖” — Sócrates</p>
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=IuryAlmeidaDev.IuryAlmeidaDev&left_color=darkred"  />
 </div>
