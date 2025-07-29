@@ -84,7 +84,7 @@
 
 ###
 
-<p align="left">“Só sei que nada sei 🤯📖” — Sócrates</p>
+<p align="center">“Só sei que nada sei 🤯📖” — Sócrates</p>
 
 ###
 
