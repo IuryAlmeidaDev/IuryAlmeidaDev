@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Cursando Engenharia da Computação na UFMT (Universidade Federal de Mato Grosso)<br>🎓 Cursando Pós-Graduação em Análise de sistemas<br>🎓 Cursando Pós-Graduação em Banco de Dados<br>🎓 Cursando Pós-Graduação em Fullstack Java<br>💻 Atuo como Desenvolvedor Back-End na Infocorp, empresa júnior da UFMT<br>🧑🏻‍🎓 Atuo como Desenvolvedor Full-Stack e lider do projeto(API) na SETA, grupo de pesquisa da FAENG<br>🧑🏻‍💻 Residente técnico MTSaúde - SEPLAG</p>
+<p align="left">🎓 Cursando Engenharia da Computação na UFMT (Universidade Federal de Mato Grosso)<br>🎓 Cursando Pós-Graduação em Análise de sistemas<br>🎓 Cursando Pós-Graduação em Arquitetura de Software<br>🎓 Pós-Graduação em Fullstack Java (Concluído)<br>💻 Atuo como Desenvolvedor Back-End na Infocorp, empresa júnior da UFMT<br>🧑🏻‍🎓 Atuo como Desenvolvedor Full-Stack e lider do projeto(API) na SETA, grupo de pesquisa da FAENG<br>🧑🏻‍💻 Desenvolvedor Java e Analista de Requisitos SEJUS (Secretaria de Estado de Justiça)</p>
 
 ###
 
