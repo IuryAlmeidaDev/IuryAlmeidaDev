@@ -2,30 +2,20 @@
 
 ###
 
-<p align="left">🎓 Cursando Engenharia da Computação na UFMT (Universidade Federal de Mato Grosso)<br>🎓 Cursando Pós-Graduação em Análise de sistemas<br>🎓 Cursando Pós-Graduação em Arquitetura de Software<br>🎓 Pós-Graduação em Fullstack Java (Concluído)<br>💻 Atuo como Desenvolvedor Back-End na Infocorp, empresa júnior da UFMT<br>🧑🏻‍🎓 Atuo como Desenvolvedor Full-Stack e lider do projeto(API) na SETA, grupo de pesquisa da FAENG<br>🧑🏻‍💻 Desenvolvedor Java e Analista de Requisitos SEJUS (Secretaria de Estado de Justiça)</p>
+<p align="left">🎓 Engenheiro da Computação pela UFMT (Universidade Federal de Mato Grosso)<br>🎓 Cursando Pós-Graduação em Arquitetura de Software<br>🎓 Pós-Graduação em Fullstack Java (Concluído)<br>🧑🏻‍💻 Desenvolvedor de Software na SEJUS (Secretaria de Estado de Justiça)</p>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="60" alt="adonisjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="60" alt="insomnia logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
   <img width="12" />
@@ -33,9 +23,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
 </div>
 
 ###
@@ -44,7 +36,7 @@
   <a href="https://www.linkedin.com/in/iury-almeida/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="discord.com/users/iuryalmeida_" target="_blank">
+  <a href="https://discord.com/users/iuryalmeida_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/iuryyalmeida/" target="_blank">
@@ -52,11 +44,8 @@
   </a>
   <a href="https://wa.me/5565993409181" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
 </div>
-
-###
-
-<br clear="both">
 
 ###
 
@@ -83,5 +72,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=IuryAlmeidaDev.IuryAlmeidaDev&left_color=darkred"  />
 </div>
-
-###
