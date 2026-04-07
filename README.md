@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Engenheiro da Computação pela UFMT (Universidade Federal de Mato Grosso)<br>🎓 Cursando Pós-Graduação em Arquitetura de Software<br>🎓 Pós-Graduação em Fullstack Java (Concluído)<br>🧑🏻‍💻 Desenvolvedor de Software na SEJUS (Secretaria de Estado de Justiça)</p>
+<p align="left">🎓 Engenheiro da Computação pela UFMT (Universidade Federal de Mato Grosso)<br>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas<br>🎓 Cursando Pós-Graduação em Arquitetura de Software<br>🎓 Pós-Graduação em Fullstack Java (Concluído)<br>🧑🏻‍💻 Desenvolvedor de Software na SEJUS (Secretaria de Estado de Justiça)</p>
 
 ###
 
@@ -13,10 +13,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
@@ -24,10 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
 </div>
 
 ###
