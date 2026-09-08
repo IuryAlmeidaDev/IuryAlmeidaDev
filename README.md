@@ -3,10 +3,10 @@
 ###
 
 <p align="left">
-  💼 <b>Analista de Tecnologia da Informação Sênior - SEJUS </b><br>
+  💼 <b>Analista de Tecnologia da Informação Sênior - SEJUS</b><br>
   🎓 <b>Engenheiro da Computação</b> pela UFMT<br>
   🎓 <b>Tecnólogo</b> em Análise e Desenvolvimento de Sistemas<br>
-  🎓 <b>Pós-Graduado</b> em Fullstack Java
+  🎓 <b>Pós-Graduado</b> em Desenvolvedor Fullstack Java
 </p>
 
 ###
