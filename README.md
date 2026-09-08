@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  💼 <b>Analista de Tecnologia da Informação Sênior</b><br>
+  💼 <b>Analista de Tecnologia da Informação Sênior (SEJUS) </b><br>
   🎓 <b>Engenheiro da Computação</b> pela UFMT (Universidade Federal de Mato Grosso)<br>
   🎓 <b>Tecnólogo</b> em Análise e Desenvolvimento de Sistemas<br>
   🎓 <b>Pós-Graduação</b> em Fullstack Java
