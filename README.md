@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">🎓 Engenheiro da Computação pela UFMT (Universidade Federal de Mato Grosso)<br>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas<br>🎓 Cursando Pós-Graduação em Arquitetura de Software<br>🎓 Pós-Graduação em Fullstack Java (Concluído)<br>🧑🏻‍💻 Desenvolvedor de Software na SEJUS (Secretaria de Estado de Justiça)</p>
+<p align="left">
+  💼 <b>Analista de Tecnologia da Informação Sênior</b><br>
+  🎓 <b>Engenheiro da Computação</b> pela UFMT (Universidade Federal de Mato Grosso)<br>
+  🎓 <b>Tecnólogo</b> em Análise e Desenvolvimento de Sistemas<br>
+  🎓 <b>Pós-Graduação</b> em Fullstack Java
+</p>
 
 ###
 
